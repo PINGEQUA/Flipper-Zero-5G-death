@@ -16,4 +16,3 @@ Then succeed. You will see the app in flipper zero(Apps>GPIO>5G wifi death)
 Do not reflash or modify it unless you know what you're doing
 if don't work well, you can contact with us from Amazon.
 3. “App too old” warning is safe to ignore
-Thank You for Your Purchase! Please Leave Us a Review!
