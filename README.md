@@ -1,3 +1,4 @@
+Only compatible with Devboard: https://www.amazon.com/dp/B0FJ8CRR3X
 # Flipper-Zero-5G-death
 Instructions for using and App download. 
 How to install 5G WiFi deauth for flipper zero. You can see the video instructions as well.
